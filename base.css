@@ -33,6 +33,9 @@ button {
     
     
 }
+table tbody tr:hover td {
+    background-color: #a8f8c0;
+}
 
 ul {
     list-style: none;
