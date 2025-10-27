@@ -20,15 +20,18 @@ body {
     
 }
 .menu {
-    width: 15%;
-    background-color: rgb(23, 152, 109);
+    width: 20%;
+    background-color: rgb(25, 156, 112);
     font-family: Arial;
     padding: 10px 20px 0px;
     
 }
 
 button {
-    size: ;
+    width: 130px;
+    color: #2a4bef;
+    
+    
 }
 
 ul {
@@ -57,3 +60,10 @@ ul {
     min-height: 80px;
     
 }
+
+.album {
+    display: inline-flex;
+}
+
+/* -- contato -- */
+
