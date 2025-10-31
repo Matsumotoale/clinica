@@ -29,15 +29,15 @@ body {
 
 button{
    display: inline-block;
-   background-color: aqua;
+   background-color: rgb(11, 99, 206);
    width: 130px;
-   color: #061679;
+   color: #ffffff;
    border: 0;
        
 }
 
-button:hover{
-    background-color: aquamarine;
+button:hover, button:focus{
+    background-color: #05c787;
 }
 
 ul {
