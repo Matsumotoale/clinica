@@ -27,14 +27,17 @@ body {
     
 }
 
-button {
-    width: 130px;
-    color: #2a4bef;
-    
-    
+button{
+   display: inline-block;
+   background-color: aqua;
+   width: 130px;
+   color: #061679;
+   border: 0;
+       
 }
-table tbody tr:hover td {
-    background-color: #a8f8c0;
+
+button:hover{
+    background-color: aquamarine;
 }
 
 ul {
